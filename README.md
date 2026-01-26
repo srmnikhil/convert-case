@@ -28,5 +28,6 @@ Handles:
 Calculates:
 - length of word
 - length of characters
+- avg time to read it
 
 It doesn’t judge your input. It just fixes it.
