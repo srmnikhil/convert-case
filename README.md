@@ -25,4 +25,8 @@ Handles:
 - Mixed formats  
 - Random casing chaos  
 
+Calculates:
+- length of word
+- length of characters
+
 It doesn’t judge your input. It just fixes it.
