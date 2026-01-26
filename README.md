@@ -6,7 +6,7 @@ Whether you’re wrangling variables, fixing API responses, or just tired of yel
 
 ---
 
-## ✨ Features
+## Features
 
 Convert text into:
 
