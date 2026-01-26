@@ -1,4 +1,4 @@
-# 🔤 Case Converter
+# 🔤 Convert Case
 
 A fast, no-nonsense utility that transforms text between different casing formats — because machines are picky and humans are lazy.
 
