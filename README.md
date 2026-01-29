@@ -32,6 +32,7 @@ Convert text into:
 
 ### Themes
 - Choose from **4 different themes**
+- As Red and Blue, Green and Yello, Black and Navy Blue, White and grey
 - Easy on the eyes, day or night
 
 ---
