@@ -1,33 +1,48 @@
 # Convert Case
 
-A fast, no-nonsense utility that transforms text between different casing formats — because machines are picky and humans are lazy.
+A fast, no-nonsense text utility that fixes casing, cleans input, and makes text usable — because machines are picky and humans are tired.
 
-Whether you’re wrangling variables, fixing API responses, or just tired of yelling in `UPPER_CASE`, this tool does the heavy lifting for you.
+Whether you’re formatting content, cleaning user input, or undoing accidental caps-lock rage, this tool does the heavy lifting for you.
 
 ---
 
 ## Features
 
+### Case Conversion
 Convert text into:
+- **lower case**
+- **UPPER CASE**
+- **Capitalized Words** (Pascal Inverse Case)
 
-- `camelCase`
-- `PascalCase`
-- `snake_case`
-- `kebab-case`
-- `UPPER_CASE`
-- `lowercase`
-- `Title Case`
+---
+
+### Text Cleanup
+- Remove **extra spaces**
+- Remove **special characters**
+- Normalize messy or inconsistent input
+
+---
+
+### Utilities
+- **Copy to clipboard** with one click
+- **Reset** input instantly
+- Works with pasted text, sentences, or large blocks
+
+---
+
+### Themes
+- Choose from **4 different themes**
+- Easy on the eyes, day or night
+
+---
+
+## Input Handling
 
 Handles:
-- Spaces  
-- Dashes  
-- Underscores  
-- Mixed formats  
-- Random casing chaos  
+- Multiple spaces  
+- Random casing  
+- Special characters  
+- Messy, real-world text  
 
-Calculates:
-- length of word
-- length of characters
-- avg time to read it
-
-It doesn’t judge your input. It just fixes it.
+It doesn’t judge your input.  
+It just fixes it.
