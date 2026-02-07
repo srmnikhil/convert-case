@@ -1,4 +1,4 @@
-# Convert Case WebApp
+# Convert Case
 
 A fast, no-nonsense text utility that fixes casing, cleans input, and makes text usable — because machines are picky and humans are tired.
 
