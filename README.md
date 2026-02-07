@@ -1,6 +1,6 @@
 # Convert Case
 
-A fast, text utility that fixes casing, cleans input, and makes text usable — because machines are picky and humans are tired.
+A fast, no nonsensetext utility that fixes casing, cleans input, and makes text usable — because machines are picky and humans are tired.
 
 Whether you’re formatting content, cleaning user input, or undoing accidental caps-lock rage, this tool does the heavy lifting for you.
 
